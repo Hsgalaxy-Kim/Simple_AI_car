@@ -10,7 +10,10 @@
 * tensorflow 2.3.0
 * tensorflow-gpu 2.3.0
 
-## Training image sample
+## Dataset
+* [Download](https://drive.google.com/file/d/1-3JE-Lxqr8hpYcCbfAfr5NvojXgQPt_d/view?usp=sharing)
+
+## Training data sample
 * Going straight
 <img width="20%" src="https://user-images.githubusercontent.com/101552457/204458797-27e5252c-49cb-497f-8a0f-0206b32f622f.png"/>
 

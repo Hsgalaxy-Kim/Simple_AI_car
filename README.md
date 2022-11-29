@@ -10,7 +10,10 @@
 * tensorflow 2.3.0
 * tensorflow-gpu 2.3.0
 
-## training image sample
+## Training image sample
+* Going straight
 <img width="20%" src="https://user-images.githubusercontent.com/101552457/204458797-27e5252c-49cb-497f-8a0f-0206b32f622f.png"/>
+* Truning right
 <img width="20%" src="https://user-images.githubusercontent.com/101552457/204458832-ee1efe13-a0a3-468e-a4a7-2c7ec388a93d.png"/>
+* Truning left
 <img width="20%" src="https://user-images.githubusercontent.com/101552457/204458869-7d9737d5-dd4d-4da7-8096-2a16e603d256.png"/>

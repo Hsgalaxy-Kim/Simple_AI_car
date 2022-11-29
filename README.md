@@ -5,3 +5,9 @@
 * track
 <img width="50%" src="https://user-images.githubusercontent.com/101552457/204456144-072e2a0d-366f-4e54-bed2-4f08a5c92178.jpeg"/>
 
+##Required Library
+* python 3.6.13
+* tensorflow 2.3.0
+* tensorflow-gpu 2.3.0
+
+##training image example
